@@ -1,0 +1,12 @@
+REQUIRED PACKAGES
+
+streamlit
+groq
+pandas
+numpy
+scipy
+pillow
+reportlab
+requests
+flask
+scikit-learn

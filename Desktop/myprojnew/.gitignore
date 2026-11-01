@@ -1,0 +1,12 @@
+# Ignore local database
+logs.db
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+.vscode/
+
+# Ignore local PDF outputs
+reports/*.pdf
+
+datasets/ddos.csv
